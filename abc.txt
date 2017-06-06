@@ -1,0 +1,6 @@
+This is my first text copy .
+Adding this line to abc.txt file .
+
+This another Line 
+
+Adding another line
